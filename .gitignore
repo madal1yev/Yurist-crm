@@ -1,0 +1,12 @@
+# deps
+node_modules/
+# build
+dist/
+# env — maxfiy kalitlar HECH QACHON commit qilinmaydi
+.env
+.env.local
+# logs / os
+*.log
+.DS_Store
+# tooling
+.freebuff/
